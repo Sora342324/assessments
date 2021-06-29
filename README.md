@@ -1,2 +1,2 @@
-# assessments
+# assessment
 あなたのいいところ診断
